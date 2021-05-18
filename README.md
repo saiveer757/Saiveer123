@@ -1,7 +1,7 @@
 # Saiveer123
 cd downloads/
 
-git clone https://github.com/saiveer757/Saiveer
+git clone https://github.com/saiveer757/Saiveer123
 
 sfdx auth:web:login --setalias saiveer-org --setdefaultdevhubusername
 
